@@ -23,7 +23,6 @@
  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
 </p>
 
