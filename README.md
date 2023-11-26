@@ -29,10 +29,4 @@
 <h3 align="center"> 🔥 Me 🔥 </h3>
 <p align="center"><a href="https://kungbi.github.io"><img src="https://img.shields.io/badge/GitHub_Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://kungbi.github.io"/></a>&nbsp <a href="mailto:kipper12335@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp  </p>
 
-<div id="main" align="center">
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=kungbi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
-        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-</div>
-
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=footer)
