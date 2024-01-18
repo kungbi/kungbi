@@ -50,7 +50,3 @@ I am a person who loves to explore new technologies, learn passionately, and sol
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kungbi&hide_border=true" />
 </details>
-
-<div align="center">
-
-</div>
