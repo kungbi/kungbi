@@ -17,8 +17,8 @@ I am a person who loves to explore new technologies, learn passionately, and sol
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, Nest, React, etc.
-- 🚀 &nbsp; I’m currently exploring Java, Spring, etc.
+- 🛠 &nbsp; I’m currently working with Spring, Java
+- 🚀 &nbsp; I’m currently exploring DevOps, Architecture
 - 📫 &nbsp; Reach me out: dobby12335@gmail.com.
 
 ### Skills and Tools:
