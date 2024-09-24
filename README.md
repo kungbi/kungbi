@@ -9,7 +9,7 @@
 
 I'm a full-stack developer currently studying computer science at university 🚀.
 
-I have a passion for problem solving and creative thinking, and am energized by the challenge of being driven by purpose and finding solutions. I'm a hexagonal human with a diverse skill set that spans front-end, back-end, mobile, machine learning, communications, and writing.
+I have a passion for problem solving and creative thinking, and I am energized by the challenge of being driven by purpose and finding solutions. I'm a hexagonal human with a diverse skill set that spans front-end, back-end, mobile, machine learning, communications, and writing.
 
 I am a person who loves to explore new technologies, learn passionately, and solve problems. When I'm not coding, I'm reading self-help books or other fields to satisfy my curiosity.
 
