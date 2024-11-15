@@ -1,6 +1,5 @@
 ## Hey there 👋, I'm [Woongbi!](https://github.com/kungbi/)
 
-[![X Badge](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/poppinndrink?s=21&t=-XQKuOK0nSuiCFQosPhzpQ)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/woongbi-shin/)
 
 <!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/) -->
