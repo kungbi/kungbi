@@ -22,7 +22,7 @@ I am a person who loves to explore new technologies, learn passionately, and sol
 
 ### Skills and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=spring,nestjs,react,hibernate,java,py,js,ts,mysql,postgres,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nestjs,kafka,kubernetes,redis,docker,react,hibernate,java,py,js,ts,mysql,postgres,graphql)](https://skillicons.dev)
 
 <br />
 <span>
