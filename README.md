@@ -24,14 +24,8 @@ I am a person who loves to explore new technologies, learn passionately, and sol
 
 [![My Skills](https://skillicons.dev/icons?i=spring,nestjs,react,hibernate,java,py,js,ts,mysql,postgres,graphql)](https://skillicons.dev)
 
-### Projects and Dev Stuffs:
-
-
-<summary><b>⚡ Github Stats</b></summary>
-
 <br />
 <span>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kungbi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kungbi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </span>
 <img height="180em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kipper12335"/>
