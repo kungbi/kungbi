@@ -2,23 +2,24 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/woongbi-shin/)
 
-<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/) -->
+### Glad to see you here! &nbsp;
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+I'm a backend developer with a strong foundation in computer science and a passion for solving real-world problems through technology.  
+I recently graduated and am currently seeking full-time opportunities where I can grow as an engineer and make meaningful contributions.
 
-I'm a full-stack developer currently studying computer science at university 🚀.
+Lately, I'm building a real-time **online ping pong game** using **Kubernetes**, **Kafka**, and **event-driven architecture (EDA)**.  
+This project reflects my interest in distributed systems, real-time communication, and scalable backend design.
 
-I have a passion for problem solving and creative thinking, and I am energized by the challenge of being driven by purpose and finding solutions. I'm a hexagonal human with a diverse skill set that spans front-end, back-end, mobile, machine learning, communications, and writing.
+I’m a purpose-driven, creative thinker who enjoys diving deep into new technologies and continuously improving my skill set.  
+My experience spans backend, frontend, DevOps, and even mobile — a true hexagonal developer at heart.  
+When I’m not coding, you’ll find me reading about personal development or exploring new ideas across different fields.
 
-I am a person who loves to explore new technologies, learn passionately, and solve problems. When I'm not coding, I'm reading self-help books or other fields to satisfy my curiosity.
+### A bit more about me:
 
-<!-- <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> -->
-
-### Talking about Personal Stuff:
-
-- 🛠 &nbsp; I’m currently working with Spring, Java
-- 🚀 &nbsp; I’m currently exploring DevOps, Architecture
-- 📫 &nbsp; Reach me out: dobby12335@gmail.com.
+- 🛠 &nbsp; Currently building with Spring, Java
+- 🔧 &nbsp; Working on an EDA-based real-time game system using Kafka + K8s
+- 🚀 &nbsp; Exploring system design, DevOps, and distributed architecture
+- 📫 &nbsp; Contact: dobby12335@gmail.com
 
 ### Skills and Tools:
 
